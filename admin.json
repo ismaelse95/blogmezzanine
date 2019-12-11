@@ -1,0 +1,1 @@
+[{"model": "admin.logentry", "pk": 1, "fields": {"action_time": "2019-12-11T10:59:37.247Z", "user": 1, "content_type": 18, "object_id": "1", "object_repr": "Instalaci\u00f3n Mezzanine", "action_flag": 1, "change_message": "[{\"added\": {}}]"}}]
